@@ -1,5 +1,5 @@
 {
-  "name": "vue-wangsong-hotspot",
+  "name": "vue-wangsong2-hotspot",
   "version": "2.0.2",
   "description": "Hotspot component for Vue.js.",
   "author": "James Wang",
@@ -16,7 +16,7 @@
     "coverageDirectory": "./coverage/",
     "collectCoverage": true
   },
-  "main": "dist/vue-wangsong-hotspot.js",
+  "main": "dist/vue-wangsong2-hotspot.js",
   "module": "components/VueHotspot.vue",
   "dependencies": {
     "@vue/composition-api": "^0.3.2",
